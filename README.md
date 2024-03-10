@@ -13,5 +13,5 @@ In this SQL-based case study, we've aggregate and prepped 3 years of movie data 
 
 And much more.
 
-Data has been sourced from Kaggle. 
+Data has been sourced from Kaggle. You can download it from [here](https://drive.google.com/drive/folders/110jPgQQJVVNHt9wYNf2CiVPVJTjWdApr?usp=sharing).
 
