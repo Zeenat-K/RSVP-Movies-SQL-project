@@ -1,4 +1,5 @@
 # RSVP Movies
+ ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 RSVP (an Indian Film Production company) wants to enter the global market and we've found key insights that might be useful for them in this new venture.
 
